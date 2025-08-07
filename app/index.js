@@ -4,6 +4,7 @@ const Home = () => {
     return(
         <View>
             <Text>Home</Text>
+            <Text>I am ON</Text>
         </View>
     )
 }
